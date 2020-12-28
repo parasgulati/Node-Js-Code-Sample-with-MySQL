@@ -1,5 +1,5 @@
 var API2_models = require('../models/API2-models.js');
-var connection = require ('../app.js');
+//var connection = require ('../app.js');
 var express = require('express');
 var connection = require('../database.js');
 
